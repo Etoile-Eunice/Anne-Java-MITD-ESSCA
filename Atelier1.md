@@ -15,6 +15,4 @@
 # Etape 4 : Saisie des informations
 *Voir le fichier "Atelier 1*
 
-## Jupyter Kernel
 
-This project uses [Rapaio](https://github.com/padreati/rapaio-jupyter-kernel) as Jupyter Kernel.
