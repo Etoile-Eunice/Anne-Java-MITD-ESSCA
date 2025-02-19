@@ -1,12 +1,19 @@
-# Java Notebook
+# Atelier 1
+# Etape 1: Markdown
 
-A github repository to easily start a codespace to play with java notebooks.
+## *Crédits*
 
-## Getting started
+* Anne-Eunice D.B.
+* Lison D.
 
-Click on *Use this template* to create a new repository based on this one.
+# Etape 2 : Affichage d'un tableau
+*Voir le fichier "Atelier 1*
 
-In *Code*, choose *Create new Codespace".
+# Etape 3: Affichage de variables
+*Voir le fichier "Atelier 1*
+
+# Etape 4 : Saisie des informations
+*Voir le fichier "Atelier 1*
 
 ## Jupyter Kernel
 
